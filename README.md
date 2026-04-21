@@ -1,6 +1,6 @@
 # Aliança Galeteria
 
-Sistema de gestão completo para uma galeteria artesanal, com loja pública, painel administrativo, controle de estoque, sorteios automáticos e geração de ofertas personalizadas com QR Code.
+Sistema esqueleto prototipo para uma galeteria artesanal, com loja pública, painel administrativo, controle de estoque, sorteios automáticos e geração de ofertas personalizadas com QR Code.
 
 O projeto foi construído do zero em PHP puro e JavaScript vanilla, sem frameworks, com foco em uma arquitetura limpa, segura e com interface premium no tema escuro.
 
